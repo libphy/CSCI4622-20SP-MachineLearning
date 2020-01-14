@@ -5,7 +5,7 @@
 
 | Week   | Date         | Reading      |                   Topic               	   | Slides      | Assignments   |
 |:------:|:------------:| :-----------:| :----------------------------------------:|:-----------:|:----------:|
-| 1 | Jan. 13 |  | Machine Learning Intro., KNN  | [slides]() | |
+| 1 | Jan. 13 |  | Machine Learning Intro., KNN  | [slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/tree/master/slides/Lec1_Introduction.pdf) | |
 | | Jan. 15 |  | Linear Regression | | |
 | | Jan. 17 | | Hands-on: EDA  |  | HW1 out|
 | 2 | Jan. 20 |  | No class: MLK | | |
