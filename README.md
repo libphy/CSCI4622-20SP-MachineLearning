@@ -9,7 +9,7 @@
 | | Jan. 15 |ISLR 3.1, 3.2  | Linear Regression |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/tree/master/slides/Lec2-Linear-Regression.pdf) | |
 | | Jan. 17 | | Hands-on: EDA  | [notebooks](https://github.com/libphy/CSCI4622-20SP-MachineLearning/tree/master/in_class_notebooks/EDA) | HW1 out|
 | 2 | Jan. 20 |  | No class: MLK | | |
-| | Jan. 22 |  | Logistic regression |  | |
+| | Jan. 22 | ISLR 4.3 | Logistic regression |  | |
 | | Jan. 24 |   | Techniques to improve training |  | |
 | 3 | Jan. 27|  | Decision Tree 1  | | |
 | | Jan. 29 |  | Decision Tree 2 |  |  |
