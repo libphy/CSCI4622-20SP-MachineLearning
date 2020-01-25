@@ -10,7 +10,7 @@
 | | Jan. 17 | | Hands-on: EDA  | [notebooks](https://github.com/libphy/CSCI4622-20SP-MachineLearning/tree/master/in_class_notebooks/EDA) | HW1 out|
 | 2 | Jan. 20 |  | No class: MLK | | |
 | | Jan. 22 | ISLR 4.3 | Logistic regression |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec3-Logistic-Regression.pdf)  | |
-| | Jan. 24 |   | Techniques to improve training |  | |
+| | Jan. 24 | ISLR 6.2.1-6.2.3, 5.1  | Techniques to improve training | [slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec4-improve-training.pdf) | |
 | 3 | Jan. 27|  | Decision Tree 1  | | |
 | | Jan. 29 |  | Decision Tree 2 |  |  |
 | | Jan. 31 |  | Hands-on |  | HW1 due, HW2 out  |
