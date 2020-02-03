@@ -12,7 +12,7 @@
 | | Jan. 22 | ISLR 4.3 | Logistic regression |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec3-Logistic-Regression.pdf)  | |
 | | Jan. 24 | ISLR 6.2.1-6.2.3, 5.1  | Techniques to improve training | [slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec4-improve-training.pdf) | |
 | 3 | Jan. 27| ISLR 8.1 | Decision Tree 1  |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec5_Decision_Trees.pdf) | |
-| | Jan. 29 | ISLR 8.1 | Decision Tree 2 |  |  |
+| | Jan. 29 | ISLR 8.1 | Decision Tree 2 |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec6_Decision_Trees_pruning.pdf)  |  |
 | | Jan. 31 |  | Hands-on |  | HW1 due, HW2 out  |
 | 4 | Feb. 3 |  |Ensemble methods 1: Bagging|  | |
 | | Feb. 5 |  | Ensemble methods 2: Boosting | |
