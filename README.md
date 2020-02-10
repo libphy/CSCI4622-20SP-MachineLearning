@@ -12,13 +12,13 @@
 | | Jan. 22 | ISLR 4.3 | Logistic regression |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec3-Logistic-Regression.pdf)  | |
 | | Jan. 24 | ISLR 6.2.1-6.2.3, 5.1  | Techniques to improve training | [slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec4-improve-training.pdf) | |
 | 3 | Jan. 27| ISLR 8.1 | Decision Tree 1  |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec5_Decision_Trees.pdf) | |
-| | Jan. 29 | ISLR 8.1 | Decision Tree 2 |  |  |
+| | Jan. 29 | ISLR 8.1 | Decision Tree 2 |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec6_Decision_Trees_pruning.pdf)  |  |
 | | Jan. 31 |  | Hands-on |  | HW1 due, HW2 out  |
-| 4 | Feb. 3 |  |Ensemble methods 1: Bagging|  | |
-| | Feb. 5 |  | Ensemble methods 2: Boosting | |
+| 4 | Feb. 3 |ISLR 8.3.3  |Ensemble methods 1: Bagging|[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec7_random_forest.pdf)  | |
+| | Feb. 5 |ISLR 8.3.4  | Ensemble methods 2: Boosting |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec8_Boosting.pdf) |
 | | Feb. 7 |   | Kaggle mini comp 1: regression challenge  |  | |
-| 5 | Feb. 10 |  |SVM 1   | | |
-| | Feb. 12 | | SVM 2   | | mini comp 1 closes|
+| 5 | Feb. 10 |ISLR 9.1, 9.2  |SVM 1   | | |
+| | Feb. 12 |ISLR 9.3-9.5 | SVM 2   | | mini comp 1 closes|
 | | Feb. 14 | | Hands-on  |  | |
 | 6 | Feb. 17 | |Neural Network 1  |   | HW2 due, HW3 out|
 | | Feb. 19 |  | Neural Network 2 |  | |
