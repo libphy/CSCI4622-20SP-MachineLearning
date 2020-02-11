@@ -15,7 +15,7 @@
 | | Jan. 29 | ISLR 8.1 | Decision Tree 2 |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec6_Decision_Trees_pruning.pdf)  |  |
 | | Jan. 31 |  | Hands-on |  | HW1 due, HW2 out  |
 | 4 | Feb. 3 |ISLR 8.3.3  |Ensemble methods 1: Bagging|[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec7_random_forest.pdf)  | |
-| | Feb. 5 |ISLR 8.3.4  | Ensemble methods 2: Boosting | |
+| | Feb. 5 |ISLR 8.3.4  | Ensemble methods 2: Boosting |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec8_Boosting.pdf) |
 | | Feb. 7 |   | Kaggle mini comp 1: regression challenge  |  | |
 | 5 | Feb. 10 |ISLR 9.1, 9.2  |SVM 1   | | |
 | | Feb. 12 |ISLR 9.3-9.5 | SVM 2   | | mini comp 1 closes|
