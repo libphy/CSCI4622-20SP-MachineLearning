@@ -18,7 +18,7 @@
 | | Feb. 5 |ISLR 8.3.4  | Ensemble methods 2: Boosting |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec8_Boosting.pdf) |
 | | Feb. 7 |   | Kaggle mini comp 1: regression challenge  |  | |
 | 5 | Feb. 10 |ISLR 9.1, 9.2  |SVM 1   |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec9-SVM(1).pdf) | |
-| | Feb. 12 |ISLR 9.3-9.5 | SVM 2   | | mini comp 1 closes|
+| | Feb. 12 |ISLR 9.3-9.5 | SVM 2   |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec10-SVM(2).pdf) | mini comp 1 closes|
 | | Feb. 14 | | Hands-on  |  | |
 | 6 | Feb. 17 | |Neural Network 1  |   | HW2 due, HW3 out|
 | | Feb. 19 |  | Neural Network 2 |  | |
