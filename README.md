@@ -1,7 +1,10 @@
 ### CSCI 4622: Undergraduate Machine Learning (University of Colorado Boulder, Spring 2020)
 
 **Note**: This schedule is a rough approximation and subject to change.
-
+Reading chapters are from the textbooks unless mentioned otherwise. 
+Currently we have two textbooks.
+ISLR- Introduction to statistical learning with applications in R
+ACML- A course in machine learning
 
 | Week   | Date         | Reading      |                   Topic               	   | Slides      | Assignments   |
 |:------:|:------------:| :-----------:| :----------------------------------------:|:-----------:|:----------:|
@@ -20,7 +23,7 @@
 | 5 | Feb. 10 |ISLR 9.1, 9.2  |SVM 1   |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec9-SVM(1).pdf) | |
 | | Feb. 12 |ISLR 9.3-9.5 | SVM 2   |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec10-SVM(2).pdf) | mini comp 1 closes|
 | | Feb. 14 | | Hands-on  |  | |
-| 6 | Feb. 17 | |Neural Network 1  |   | HW2 due, HW3 out|
+| 6 | Feb. 17 |ACML ch4 |Neural Network 1  |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec11-NeuralNetwork_1_anno.pdf)   | HW2 due, HW3 out|
 | | Feb. 19 |  | Neural Network 2 |  | |
 | | Feb. 21 |  | Midterm 1 |  |  |
 | 7 | Feb. 24 | |Back Propagation  | | |
