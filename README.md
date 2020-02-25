@@ -24,10 +24,10 @@ ACML- A course in machine learning
 | | Feb. 12 |ISLR 9.3-9.5 | SVM 2   |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec10-SVM(2).pdf) | mini comp 1 closes|
 | | Feb. 14 | | Hands-on  |  | |
 | 6 | Feb. 17 |ACML ch4 |Neural Network 1  |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec11-NeuralNetwork_1_anno.pdf)   | HW2 due, HW3 out|
-| | Feb. 19 |  | Neural Network 2 |  | |
+| | Feb. 19 |  | midterm review |  | |
 | | Feb. 21 |  | Midterm 1 |  |  |
-| 7 | Feb. 24 | |Back Propagation  | | |
-| | Feb. 26 |  |Gradient Descent, Optimization   |  | |
+| 7 | Feb. 24 | |Neural Network 2, (demo) intro to Keras |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec12-NeuralNetwork2_anno.pdf) | |
+| | Feb. 26 |  |Back Propagation, Gradient Descent, Optimization   |  | |
 | | Feb. 28 |  |Kaggle mini comp 2: classification challenge  |   | |
 | 8 | Mar. 2 | |Unsupervised Learning 1:  Dimensionality Reduction 	 |  | |
 | | Mar. 4 |   |Unsupervised Learning 2: Clustering  |  | mini comp 2 closes|
