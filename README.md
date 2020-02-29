@@ -27,8 +27,8 @@ ACML- A course in machine learning
 | | Feb. 19 |  | midterm review |  | |
 | | Feb. 21 |  | Midterm 1 |  |  |
 | 7 | Feb. 24 |[deeplearningbook](http://www.deeplearningbook.org) Ch.6.1-6.4 |Neural Network 2 (training perceptron, ANN design parameters), demo: intro to Keras |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec12-NeuralNetwork2_anno.pdf) | |
-| | Feb. 26 | [deeplearningbook](http://www.deeplearningbook.org) Ch.6.5, 8.3 |Back Propagation, Stochastic Gradient Descent  |  | |
-| | Feb. 28 | [deeplearningbook](http://www.deeplearningbook.org)Ch.8.3, 8.5, 8.7.1 |More optimization algorithms, Training tricks, Kaggle mini comp 2: classification challenge  |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec13-math-behind-NN-training_anno.pdf) | |
+| | Feb. 26 | [deeplearningbook](http://www.deeplearningbook.org) Ch.6.5, 8.3 |Back Propagation, Stochastic Gradient Descent  | [slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec13-math-behind-NN-training_anno.pdf) | |
+| | Feb. 28 | [deeplearningbook](http://www.deeplearningbook.org)Ch.8.3, 8.5, 8.7.1 |More optimization algorithms, Training tricks, Kaggle mini comp 2: classification challenge  |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec14-optimization-methods-NN-training_anno.pdf) | |
 | 8 | Mar. 2 | |Unsupervised Learning 1:  Dimensionality Reduction 	 |  | |
 | | Mar. 4 |   |Unsupervised Learning 2: Clustering  |  | mini comp 2 closes|
 | | Mar. 6 | |  Hands-on |  | HW3 due, HW4 out |
