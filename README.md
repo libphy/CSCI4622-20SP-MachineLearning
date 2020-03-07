@@ -19,7 +19,7 @@ ACML- A course in machine learning
 | | Jan. 31 |  | Hands-on |  | HW1 due, HW2 out  |
 | 4 | Feb. 3 |ISLR 8.3.3  |Ensemble methods 1: Bagging|[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec7_random_forest.pdf)  | |
 | | Feb. 5 |ISLR 8.3.4  | Ensemble methods 2: Boosting |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec8_Boosting.pdf) |
-| | Feb. 7 |   | Kaggle mini comp 1: regression challenge  |  | |
+| | Feb. 7 |   | Kaggle mini comp 1: [regression challenge](https://www.kaggle.com/c/cu-regression-challenge/)  |  | |
 | 5 | Feb. 10 |ISLR 9.1, 9.2  |SVM 1   |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec9-SVM(1).pdf) | |
 | | Feb. 12 |ISLR 9.3-9.5 | SVM 2   |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec10-SVM(2).pdf) | mini comp 1 closes|
 | | Feb. 14 | | Hands-on  |  | |
@@ -28,9 +28,9 @@ ACML- A course in machine learning
 | | Feb. 21 |  | Midterm 1 |  |  |
 | 7 | Feb. 24 |[deeplearningbook](http://www.deeplearningbook.org) Ch.6.1-6.4 |Neural Network 2 (training perceptron, ANN design parameters), demo: intro to Keras |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec12-NeuralNetwork2_anno.pdf) | HW3 out|
 | | Feb. 26 | [deeplearningbook](http://www.deeplearningbook.org) Ch.6.5, 8.3 |Back Propagation, Stochastic Gradient Descent  | [slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec13-math-behind-NN-training_anno.pdf) | |
-| | Feb. 28 | [deeplearningbook](http://www.deeplearningbook.org)Ch.8.3, 8.5, 8.7.1 |More optimization algorithms, Training tricks, Kaggle mini comp 2: classification challenge  |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec14-optimization-methods-NN-training_anno.pdf) | |
+| | Feb. 28 | [deeplearningbook](http://www.deeplearningbook.org)Ch.8.3, 8.5, 8.7.1 |More optimization algorithms, Training tricks, Kaggle mini comp 2: [classification challenge](https://www.kaggle.com/c/cub-csci-4622-kaggle-2-2020/overview)  |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec14-optimization-methods-NN-training_anno.pdf) | |
 | 8 | Mar. 2 | ISLR 10.1, 10.2, 6.3|Unsupervised Learning 1:  Dimensionality Reduction 	 |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec15-Unsupervised%20Learning-PCA_anno.pdf)  | |
-| | Mar. 4 |   |Unsupervised Learning 2: Clustering  |  | |
+| | Mar. 4 |   |Unsupervised Learning 2: Clustering  |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec16-Unsupervised%20Learning-Clustering_anno.pdf)  | |
 | | Mar. 6 | |  Hands-on |  | mini comp 2 closes, HW4 out |
 | 9 | Mar. 9 | |  Generative Models|  | |
 | | Mar. 11 |  | Naive Bayes Classifier |  |HW3 due |
