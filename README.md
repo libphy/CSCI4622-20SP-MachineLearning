@@ -30,7 +30,7 @@ ACML- A course in machine learning
 | | Feb. 26 | [deeplearningbook](http://www.deeplearningbook.org) Ch.6.5, 8.3 |Back Propagation, Stochastic Gradient Descent  | [slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec13-math-behind-NN-training_anno.pdf) | |
 | | Feb. 28 | [deeplearningbook](http://www.deeplearningbook.org)Ch.8.3, 8.5, 8.7.1 |More optimization algorithms, Training tricks, Kaggle mini comp 2: [classification challenge](https://www.kaggle.com/c/cub-csci-4622-kaggle-2-2020/overview)  |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec14-optimization-methods-NN-training_anno.pdf) | |
 | 8 | Mar. 2 | ISLR 10.1, 10.2, 6.3|Unsupervised Learning 1:  Dimensionality Reduction 	 |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec15-Unsupervised%20Learning-PCA_anno.pdf)  | |
-| | Mar. 4 |   |Unsupervised Learning 2: Clustering  |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec16-Unsupervised%20Learning-Clustering_anno.pdf)  | |
+| | Mar. 4 | ISLR 10.3  |Unsupervised Learning 2: Clustering  |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec16-Unsupervised%20Learning-Clustering_anno.pdf)  | |
 | | Mar. 6 | |  Hands-on |  | mini comp 2 closes, HW4 out |
 | 9 | Mar. 9 | |  Generative Models|  | |
 | | Mar. 11 |  | Naive Bayes Classifier |  |HW3 due |
