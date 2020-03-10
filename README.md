@@ -32,8 +32,8 @@ ACML- A course in machine learning
 | 8 | Mar. 2 | ISLR 10.1, 10.2, 6.3|Unsupervised Learning 1:  Dimensionality Reduction 	 |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec15-Unsupervised%20Learning-PCA_anno.pdf)  | |
 | | Mar. 4 | ISLR 10.3  |Unsupervised Learning 2: Clustering  |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec16-Unsupervised%20Learning-Clustering_anno.pdf)  | |
 | | Mar. 6 | |  Hands-on |  | mini comp 2 closes, HW4 out |
-| 9 | Mar. 9 | |  Recommender System|[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec17-Unsupervised%20Learning-Recommender%20System_anno.pdf)  | |
-| | Mar. 11 |  | Matrix Factorization |  |HW3 due |
+| 9 | Mar. 9 |[MMDS](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf) Ch.9.1-9.3 |  Recommender System|[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec17-Unsupervised%20Learning-Recommender%20System_anno.pdf)  | |
+| | Mar. 11 | [MMDS](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf) Ch.9.4-9.6 | Matrix Factorization |  |HW3 due |
 | | Mar. 13 |  | Kaggle mini comp 3: unsupervised learning |  |  |
 | 10 | Mar. 16 |  | Markov Models    |  | |
 | | Mar. 18 | | Hidden Markov Models	|  | mini comp 3 closes |
