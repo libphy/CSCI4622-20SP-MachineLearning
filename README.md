@@ -36,8 +36,8 @@ ACML- A course in machine learning
 | | Mar. 11 | [MMDS](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf) Ch.9.4-9.6, [paper](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/other_resource/ieee_matrix_factoriztion.pdf) | Matrix Factorization |  [slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec18-Unsupervised%20Learning-Matrix%20Factorization_anno_ver1.pdf) |HW3 due |
 | | Mar. 13 |  | <s>Kaggle mini comp 3: unsupervised learning</s> Class canceled due to COVID-19 |  |  |
 | 10 | Mar. 16 |  | NMF applications-Topic modeling    | [notebook](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/in_class_notebooks/NMF/NMF_applications.ipynb), [whiteboard](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec19-whiteboard_ver1.png) | |
-| | Mar. 18 | | CNN 1: Basics 	| [slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec20-ConvolutionalNeuralNetwork1_anno.pdf) | |
-| | Mar. 20 | |CNN 2: Architectures & Training | | |
+| | Mar. 18 |[deeplearningbook](http://www.deeplearningbook.org) Ch. 9.1-9.3, 9.10, 9.11 | CNN 1: Basics 	| [slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec20-ConvolutionalNeuralNetwork1_anno.pdf) | |
+| | Mar. 20 |[resource](http://cs231n.github.io/convolutional-networks/): Stanford's 231n course has great resources on (convolutional) neural networks. |CNN 2: Architectures & Training |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec21-ConvolutionalNeuralNetwork2_r.pdf) | |
 | 11 | Mar. 23 | | No class: Spring Break | | |
 | | Mar. 25 |  | No class: Spring Break |  | |
 | | Mar. 27 | | No class: Spring Break | |  |
