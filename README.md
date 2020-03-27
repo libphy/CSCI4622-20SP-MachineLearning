@@ -33,10 +33,10 @@ ACML- A course in machine learning
 | | Mar. 4 | ISLR 10.3  |Unsupervised Learning 2: Clustering  |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec16-Unsupervised%20Learning-Clustering_anno.pdf)  | |
 | | Mar. 6 | |  Hands-on |  | mini comp 2 closes, HW4 out |
 | 9 | Mar. 9 |[MMDS](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf) Ch.9.1-9.3 |  Recommender System|[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec17-Unsupervised%20Learning-Recommender%20System_anno.pdf)  | |
-| | Mar. 11 | [MMDS](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf) Ch.9.4-9.6, [paper](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/other_resource/ieee_matrix_factoriztion.pdf) | Matrix Factorization |  |HW3 due |
+| | Mar. 11 | [MMDS](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf) Ch.9.4-9.6, [paper](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/other_resource/ieee_matrix_factoriztion.pdf) | Matrix Factorization |  [slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec18-Unsupervised%20Learning-Matrix%20Factorization_anno_ver1.pdf) |HW3 due |
 | | Mar. 13 |  | <s>Kaggle mini comp 3: unsupervised learning</s> Class canceled due to COVID-19 |  |  |
 | 10 | Mar. 16 |  | NMF applications-Topic modeling    | [notebook](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/in_class_notebooks/NMF/NMF_applications.ipynb), [whiteboard](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec19-whiteboard_ver1.png) | |
-| | Mar. 18 | | CNN 1: Basics 	|  | |
+| | Mar. 18 | | CNN 1: Basics 	| [slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec20-ConvolutionalNeuralNetwork1_anno.pdf) | |
 | | Mar. 20 | |CNN 2: Architectures & Training | | |
 | 11 | Mar. 23 | | No class: Spring Break | | |
 | | Mar. 25 |  | No class: Spring Break |  | |
