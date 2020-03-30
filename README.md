@@ -41,12 +41,12 @@ ACML- A course in machine learning
 | 11 | Mar. 23 | | No class: Spring Break | | |
 | | Mar. 25 |  | No class: Spring Break |  | |
 | | Mar. 27 | | No class: Spring Break | |  |
-| 12 | Mar. 30 | | TBD (COVID-19 schedule) |  | HW4 due, HW5 out, project announcement|
-| | Apr. 1 |  | TBD (COVID-19 schedule) |   | |
-| | Apr. 3 | | TBD but likely to be the Midterm 2(COVID-19 schedule) | |  |
+| 12 | Mar. 30 | | TBD (COVID-19 schedule) |  | |
+| | Apr. 1 |  | TBD (COVID-19 schedule) |   |  |
+| | Apr. 3 | | TBD but likely to be the Midterm 2(COVID-19 schedule) | | project announcement |
 | 13 | Apr. 6 | | CNN 3: Advanced topic | | |
-| | Apr. 8 | | Unsupervised Neural Networks | | |
-| | Apr.10 | | Kaggle mini comp 4: Image classification | | HW5 due|
+| | Apr. 8 | | Unsupervised Neural Networks | |HW4 due|
+| | Apr.10 | | Kaggle mini comp 4: Image classification | | |
 | 14 | Apr. 13 | |  RNN 1  | |  Team formation deadline |
 | | Apr. 15 | | RNN 2 | | mini comp 4 closes |
 | | Apr. 17 | | Hands-on | | |
