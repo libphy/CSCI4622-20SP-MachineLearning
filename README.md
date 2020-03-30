@@ -44,7 +44,7 @@ ACML- A course in machine learning
 | 12 | Mar. 30 | | review |  | |
 | | Apr. 1 |  | review |   |  |
 | | Apr. 3 | | Midterm 2 | | project announcement |
-| 13 | Apr. 6 | | CNN 3: Advanced topic | | |
+| 13 | Apr. 6 | | CNN 3: Advanced topic | |HW5 out |
 | | Apr. 8 | | Unsupervised Neural Networks | |HW4 due|
 | | Apr.10 | | Kaggle mini comp 4: Image classification | | |
 | 14 | Apr. 13 | |  RNN 1  | |  Team formation deadline |
@@ -52,7 +52,7 @@ ACML- A course in machine learning
 | | Apr. 17 | | Hands-on | | |
 | 15 | Apr.20 | |  TBA |  | |
 | | Apr. 22 | | TBA |  | |
-| | Apr. 24 | | TBA | | |
+| | Apr. 24 | | TBA | |HW5 due |
 | 16 | Apr. 27 |  | Ethics, Review/Wrap-up |  | |
 | | Apr. 29 |  | No class | | |
 | | May. 1 | | No class |  | |
