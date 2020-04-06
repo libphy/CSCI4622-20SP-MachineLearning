@@ -46,7 +46,7 @@ ACML- A course in machine learning
 | | Apr. 3 | | Midterm 2 | |  |
 | 13 | Apr. 6 | | CNN 3: Advanced topic | | |
 | | Apr. 8 | | Unsupervised Neural Networks | |HW4 due, HW5 out|
-| | Apr.10 | | Kaggle mini comp 4: Image classification | | project announcement|
+| | Apr.10 | | Kaggle mini comp 4: Image classification, Keras functional API mini tutorial| | project announcement|
 | 14 | Apr. 13 | |  RNN 1  | |   |
 | | Apr. 15 | | RNN 2 | | mini comp 4 closes |
 | | Apr. 17 | | Hands-on | | |
