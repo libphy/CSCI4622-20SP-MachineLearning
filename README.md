@@ -36,23 +36,23 @@ ACML- A course in machine learning
 | | Mar. 11 | [MMDS](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf) Ch.9.4-9.6, [paper](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/other_resource/ieee_matrix_factoriztion.pdf) | Matrix Factorization |  [slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec18-Unsupervised%20Learning-Matrix%20Factorization_anno_ver1.pdf) |HW3 due |
 | | Mar. 13 |  | <s>Kaggle mini comp 3: unsupervised learning</s> Class canceled due to COVID-19 |  |  |
 | 10 | Mar. 16 |  | NMF applications-Topic modeling    | [notebook](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/in_class_notebooks/NMF/NMF_applications.ipynb), [whiteboard](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec19-whiteboard_ver1.png) | |
-| | Mar. 18 | | CNN 1: Basics 	| [slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec20-ConvolutionalNeuralNetwork1_anno.pdf) | |
-| | Mar. 20 | |CNN 2: Architectures & Training | | |
+| | Mar. 18 |[deeplearningbook](http://www.deeplearningbook.org) Ch. 9.1-9.3, 9.10, 9.11 | CNN 1: Basics 	| [slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec20-ConvolutionalNeuralNetwork1_anno.pdf) | |
+| | Mar. 20 |[resource](http://cs231n.github.io/convolutional-networks/): Stanford's 231n course has great resources on (convolutional) neural networks. |CNN 2: Architectures & Training |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec21-ConvolutionalNeuralNetwork2_r.pdf) | |
 | 11 | Mar. 23 | | No class: Spring Break | | |
 | | Mar. 25 |  | No class: Spring Break |  | |
 | | Mar. 27 | | No class: Spring Break | |  |
-| 12 | Mar. 30 | | TBD (COVID-19 schedule) |  | HW4 due, HW5 out, project announcement|
-| | Apr. 1 |  | TBD (COVID-19 schedule) |   | |
-| | Apr. 3 | | TBD but likely to be the Midterm 2(COVID-19 schedule) | |  |
+| 12 | Mar. 30 | | review |  | |
+| | Apr. 1 |  | review |   |  |
+| | Apr. 3 | | Midterm 2 | |  |
 | 13 | Apr. 6 | | CNN 3: Advanced topic | | |
-| | Apr. 8 | | Unsupervised Neural Networks | | |
-| | Apr.10 | | Kaggle mini comp 4: Image classification | | HW5 due|
-| 14 | Apr. 13 | |  RNN 1  | |  Team formation deadline |
+| | Apr. 8 | | Unsupervised Neural Networks | |HW4 due, HW5 out|
+| | Apr.10 | | Kaggle mini comp 4: Image classification, Keras functional API mini tutorial| | project announcement|
+| 14 | Apr. 13 | |  RNN 1  | |   |
 | | Apr. 15 | | RNN 2 | | mini comp 4 closes |
 | | Apr. 17 | | Hands-on | | |
-| 15 | Apr.20 | |  TBA |  | |
-| | Apr. 22 | | TBA |  | |
-| | Apr. 24 | | TBA | | |
+| 15 | Apr.20 | |  project discussion |  |Team formation deadline|
+| | Apr. 22 | | project discussion |  | |
+| | Apr. 24 | | project discussion | |HW5 due |
 | 16 | Apr. 27 |  | Ethics, Review/Wrap-up |  | |
 | | Apr. 29 |  | No class | | |
 | | May. 1 | | No class |  | |
