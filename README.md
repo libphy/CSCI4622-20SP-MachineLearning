@@ -43,16 +43,16 @@ ACML- A course in machine learning
 | | Mar. 27 | | No class: Spring Break | |  |
 | 12 | Mar. 30 | | review |  | |
 | | Apr. 1 |  | review |   |  |
-| | Apr. 3 | | Midterm 2 | | project announcement |
-| 13 | Apr. 6 | | CNN 3: Advanced topic | |HW5 out |
-| | Apr. 8 | | Unsupervised Neural Networks | |HW4 due|
-| | Apr.10 | | Kaggle mini comp 4: Image classification | | |
-| 14 | Apr. 13 | |  RNN 1  | |  Team formation deadline |
+| | Apr. 3 | | Midterm 2 | |  |
+| 13 | Apr. 6 | | CNN 3: Advanced topic | | |
+| | Apr. 8 | | Unsupervised Neural Networks | |HW4 due, HW5 out|
+| | Apr.10 | | Kaggle mini comp 4: Image classification | | project announcement|
+| 14 | Apr. 13 | |  RNN 1  | |   |
 | | Apr. 15 | | RNN 2 | | mini comp 4 closes |
 | | Apr. 17 | | Hands-on | | |
-| 15 | Apr.20 | |  TBA |  | |
-| | Apr. 22 | | TBA |  | |
-| | Apr. 24 | | TBA | |HW5 due |
+| 15 | Apr.20 | |  project discussion |  |Team formation deadline|
+| | Apr. 22 | | project discussion |  | |
+| | Apr. 24 | | project discussion | |HW5 due |
 | 16 | Apr. 27 |  | Ethics, Review/Wrap-up |  | |
 | | Apr. 29 |  | No class | | |
 | | May. 1 | | No class |  | |
