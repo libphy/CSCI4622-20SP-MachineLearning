@@ -45,7 +45,7 @@ ACML- A course in machine learning
 | | Apr. 1 |  | review |   |  |
 | | Apr. 3 | | Midterm 2 | |  |
 | 13 | Apr. 6 | | CNN 3: Advanced topic | | |
-| | Apr. 8 | | Unsupervised Neural Networks | |HW4 due, HW5 out|
+| | Apr. 8 | | Unsupervised Neural Networks | [notebook](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/in_class_notebooks/Autoencoder/autoencoder_part.ipynb)|HW4 due, HW5 out|
 | | Apr.10 | | Kaggle mini comp 4: Image classification, Keras functional API mini tutorial| | [project announcement](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/other_resource/project_guide.md)|
 | 14 | Apr. 13 | |  RNN 1  | |   |
 | | Apr. 15 | | RNN 2 | | mini comp 4 closes |
