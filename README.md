@@ -47,7 +47,7 @@ ACML- A course in machine learning
 | 13 | Apr. 6 | | CNN 3: Advanced topic |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec22-ConvolutionalNeuralNetwork3.pdf) | |
 | | Apr. 8 | | Unsupervised Neural Networks | [notebook](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/in_class_notebooks/Autoencoder/autoencoder_part.ipynb) [whiteboard](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec23-autoencoder_whiteboard.png)|HW4 due, HW5 out|
 | | Apr.10 | | Kaggle mini comp 4: [Image classification](https://www.kaggle.com/c/cuboulder-image-labelling), Keras mini tutorial| | [project announcement](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/other_resource/project_guide.md)|
-| 14 | Apr. 13 | |  RNN 1  | |   |
+| 14 | Apr. 13 | |  RNN 1  |[slides](https://github.com/libphy/CSCI4622-20SP-MachineLearning/blob/master/slides/Lec24-RecurrentNeuralNetwork1.pdf) |   |
 | | Apr. 15 | | RNN 2 | | mini comp 4 closes |
 | | Apr. 17 | | Hands-on | | |
 | 15 | Apr.20 | |  project discussion |  |Team formation deadline|
