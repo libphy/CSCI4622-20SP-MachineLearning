@@ -53,7 +53,7 @@ ACML- A course in machine learning
 | 15 | Apr.20 | |  project discussion |  |Team formation deadline|
 | | Apr. 22 | | project discussion |  | |
 | | Apr. 24 | | project discussion | |HW5 due |
-| 16 | Apr. 27 |  | Ethics, Review/Wrap-up |  | |
-| | Apr. 29 |  | No class | | |
-| | May. 1 | | No class |  | |
+| 16 | Apr. 27 |  | project discussion |  | |
+| | Apr. 29 |  | project discussion | | |
+| | May. 1 | | no class |  | |
 |Finals week| May. 3| | | |Project deliverable due |
