@@ -25,10 +25,10 @@ Here is the rough timeline for the next 4 weeks:
 
 3. **Project week 3** Continue more main analysis. Hyperparameter optimization. Compare results from your models. Wrap up.
 
-4. **Project week 4** Wrap up and finalize your jupyter notebook write-up. Prepare the presentation. Organize your git repository. Submit the 3 deliverables.
-[1] finished jupyter notebook or pdf write-up: Your final report should be in the pdf format or a Jupyter notebook with Markdown (please make sure you actually write the report not just comments in case you use jupyter notebook).
-[2] a link to your project git repository (please include the link in both report and video presentation): Your github repo must be public and accessible. You do not need to upload data file there (a description and some pandas dataframe of data in the write-up is enough).
-[3] the video presentation in .mp4 file format- please check your audio/video works before you submit
+4. **Project week 4** Wrap up and finalize your jupyter notebook write-up. Prepare the presentation. Organize your git repository. Submit the 3 deliverables.      
+[1] finished jupyter notebook or pdf write-up: Your final report should be in the pdf format or a Jupyter notebook with Markdown (please make sure you actually write the report not just comments in case you use jupyter notebook).      
+[2] a link to your project git repository (please include the link in both report and video presentation): Your github repo must be public and accessible. You do not need to upload data file there (a description and some pandas dataframe of data in the write-up is enough).     
+[3] the video presentation in .mp4 file format- please check your audio/video works before you submit.     
 When submitting in Moodle submission box, you can either submit those files or a zipped file.
 
 ### EDA procedure example (for the Project Week 1 & 2)
